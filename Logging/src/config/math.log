@@ -1,0 +1,6 @@
+Feb 17, 2023 2:46:01 PM org.ssglobal.training.codes.MathOps add
+INFO: Start of method add() with parameters x = 2, y = 3
+Feb 17, 2023 2:46:01 PM org.ssglobal.training.codes.MathOps add
+WARNING: using custome Date() object
+Feb 17, 2023 2:46:01 PM org.ssglobal.training.codes.MathOps add
+INFO: End of method add() with parameters x = 2, y = 3
